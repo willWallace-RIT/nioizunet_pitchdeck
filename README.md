@@ -172,7 +172,7 @@ Current repositories:
 - [NoizuNet](https://github.com/willWallace-RIT/noizunet)
 - [NoizuNet Ranker](https://github.com/willWallace-RIT/noizunet_ranker)
 - [noizunet distributed processing network and coin repo](https://github.com/willWallace-RIT/noizunet_imageproc_client)
-- 
+- [noizu compression proposal for asset packing in a live/amnesiac medium](https://github.com/willWallace-RIT/NoizuOS_asset_compress)
 
 Key technologies:
 
